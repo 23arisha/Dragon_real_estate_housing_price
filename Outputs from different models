@@ -1,0 +1,13 @@
+1.  DESCICION TREE:
+    Scores mean: 5.605417464260963
+    Scores Standard deviation: 1.218933431281125
+    
+
+2.  LINEAR REGRESSION:
+    Scores mean: 5.172716422839025
+    Scores Standard deviation: 1.320673015006568
+
+
+3.  RANDOMFORESTREGRESSOR:
+    Scores mean: 3.760203040845279
+    Scores Standard deviation: 1.3120016146799511
